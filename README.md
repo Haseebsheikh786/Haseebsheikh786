@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Haseeb Sheikh
 
-Full-Stack Web Developer with **2+ years of hands-on experience** building
+Full-Stack Web Developer with **3+ years of hands-on experience** building
 scalable, secure, and production-ready web applications using  
 **Next.js, React, Node.js, PostgreSQL, and MongoDB**.
 
@@ -12,7 +12,7 @@ with clean architecture, optimized APIs, and modern UI.
 ### 🛠 Tech Stack
 
 **Frontend**
-- React.js, Next.js, Vue.js
+- React.js, Next.js, Vue.js, Typescript
 - Tailwind CSS, Material UI, ShadCN UI
 
 **Backend**
@@ -21,10 +21,10 @@ with clean architecture, optimized APIs, and modern UI.
 
 **Databases**
 - PostgreSQL, MongoDB, MySQL
-- Prisma, Sequelize
+- Sequelize
 
 **DevOps & Tools**
-- Vercel, AWS
+- Vercel, AWS, Render
 - Git & GitHub
 - Firebase, Supabase
 
@@ -37,14 +37,28 @@ A real-world POS system designed for businesses to manage sales, users, and inve
 - Role-based access for admins and staff
 - Clean admin dashboard with real-time updates  
 **Tech:** Next.js, TypeScript, Supabase, PostgreSQL
+🌐 **Live:** https://pos-two-smoky.vercel.app/
 
 ---
 
-#### 🎟 Event Management Platform
-An admin-focused event system that simplified complex workflows into a single dashboard.
-- Reduced event management from **6 pages → 1 unified interface**
-- Registrations, check-ins, invoices, and verification in one place  
-**Tech:** React, Node.js, MongoDB
+#### 🎓 ExpertConnect – Expert Q&A Marketplace
+A real-time expert marketplace connecting fans with professionals through paid interactions.
+- Video calls, instant messaging, and Q&A sessions
+- Stripe Express onboarding and secure payouts
+- Calendly-like scheduling with time slots & exceptions
+- Real-time notifications, call tracking, reviews, refunds & tips  
+**Tech:** Next.js, Node.js, PostgreSQL, Stripe, WebSockets  
+
+---
+
+#### 🏟 Global & ZIP Admin Panel
+A centralized admin system powering **Global Live (event ticketing)** and **ZIP System (sports event management)**.
+- Event, user, ticketing, refunds & announcements management
+- Real-time event-based group chat for admins & coaches
+- Team registrations, scoring workflows, judges & live results
+- Unified dashboard supporting both mobile and web platforms  
+**Tech:** React, Node.js, PostgreSQL, Firebase  
+🌐 **Live:** https://cheer-prod-admin.vercel.app/
 
 ---
 
@@ -53,6 +67,7 @@ A full-featured e-commerce application with authentication and real-time feature
 - User authentication & email verification
 - Admin panel, chat support, and light/dark mode  
 **Tech:** MERN Stack, Firebase
+🌐 **Live:** https://e-shop-sandy.vercel.app/
 
 ---
 
