@@ -37,7 +37,7 @@ A real-world POS system designed for businesses to manage sales, users, and inve
 - Role-based access for admins and staff
 - Clean admin dashboard with real-time updates  
 **Tech:** Next.js, TypeScript, Supabase, PostgreSQL
-🌐 **Live:** https://pos-two-smoky.vercel.app/
+ 🌐 **Live:** https://pos-two-smoky.vercel.app/
 
 ---
 
@@ -67,7 +67,7 @@ A full-featured e-commerce application with authentication and real-time feature
 - User authentication & email verification
 - Admin panel, chat support, and light/dark mode  
 **Tech:** MERN Stack, Firebase
-🌐 **Live:** https://e-shop-sandy.vercel.app/
+ 🌐 **Live:** https://e-shop-sandy.vercel.app/
 
 ---
 
