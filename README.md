@@ -1,81 +1,76 @@
-## Hi 👋 I'm Haseeb Sheikh
+## Hi 👋 I'm Haseeb Farrukh
 
-Full-Stack Web Developer with **3+ years of hands-on experience** building
-scalable, secure, and production-ready web applications using  
-**Next.js, React, Node.js, PostgreSQL, and MongoDB**.
+Freelance Full-Stack Developer with **4 years of hands-on experience** building scalable, secure, and production-ready web applications using **Next.js, React, Node.js, PostgreSQL, and Stripe**.
 
-I help startups and businesses turn ideas into **high-performance digital products**
-with clean architecture, optimized APIs, and modern UI.
+I help startups and businesses turn product ideas into **high-performance digital systems** with clean architecture, optimized API pipelines, and modern user experiences.
 
 ---
 
 ### 🛠 Tech Stack
 
 **Frontend**
-- React.js, Next.js, Vue.js, Typescript
-- Tailwind CSS, Material UI, ShadCN UI
+- React, Next.js, TypeScript
+- Tailwind CSS, ShadCN UI, Material UI
 
-**Backend**
-- Node.js, Express.js, Laravel
-- REST APIs, Authentication, Role-Based Access Control
+**Backend & Architecture**
+- Node.js, Express.js, REST APIs
+- Asynchronous Worker Queues, Role-Based Access Control (RBAC)
 
-**Databases**
-- PostgreSQL, MongoDB, MySQL
+**Databases & Services**
+- PostgreSQL, Supabase, Firebase
 - Sequelize
 
-**DevOps & Tools**
-- Vercel, AWS, Render
-- Git & GitHub
-- Firebase, Supabase
+**Integrations & Infrastructure**
+- Square, Stripe (Subscriptions, Webhooks, Express Payouts)
+- OpenAI / Google Gemini API, MailerSend, WebSockets
+- Vercel, Render, AWS, Cloudinary
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🧾 POS Management System
-A real-world POS system designed for businesses to manage sales, users, and inventory efficiently.
-- Role-based access for admins and staff
-- Clean admin dashboard with real-time updates  
-**Tech:** Next.js, TypeScript, Supabase, PostgreSQL
- 🌐 **Live:** https://pos-two-smoky.vercel.app/
-
----
-
-#### 🎓 ExpertConnect – Expert Q&A Marketplace
-A real-time expert marketplace connecting fans with professionals through paid interactions.
-- Video calls, instant messaging, and Q&A sessions
-- Stripe Express onboarding and secure payouts
-- Calendly-like scheduling with time slots & exceptions
-- Real-time notifications, call tracking, reviews, refunds & tips  
-**Tech:** Next.js, Node.js, PostgreSQL, Stripe, WebSockets  
-
----
-
-#### 🏟 Global & ZIP Admin Panel
-A centralized admin system powering **Global Live (event ticketing)** and **ZIP System (sports event management)**.
-- Event, user, ticketing, refunds & announcements management
-- Real-time event-based group chat for admins & coaches
-- Team registrations, scoring workflows, judges & live results
-- Unified dashboard supporting both mobile and web platforms  
-**Tech:** React, Node.js, PostgreSQL, Firebase  
+#### 🏟 EventFlow – End‑to‑End SaaS for Sports Events
+A centralized multi-tenant sports management platform built to digitize gymnastics and cheerleading competitions, moving organizers away from fragmented manual workflows.
+- Dedicated judge portal for real-time scoring submissions with multi-level admin approval workflows
+- Automated multi-tier invoicing arrays with category crossover fee matrices and integrated digital waivers
+- Built-in administrative marketing module leveraging MailerSend for high-volume dynamic email campaigns
+- **Tech:** Next.js, React, Node.js, PostgreSQL, Google Gemini API, MailerSend
 🌐 **Live:** https://cheer-prod-admin.vercel.app/
 
 ---
 
-#### 🛒 E-Commerce Platform
-A full-featured e-commerce application with authentication and real-time features.
-- User authentication & email verification
-- Admin panel, chat support, and light/dark mode  
-**Tech:** MERN Stack, Firebase
- 🌐 **Live:** https://e-shop-sandy.vercel.app/
+#### 🎓 ExpertConnect – Expert Q&A Marketplace
+A real-time expert marketplace connecting fans with industry professionals through structured, paid interactions.
+- Calendly-style scheduling engine supporting custom time slots, exceptions, and time-zone matching
+- Deep Stripe Express onboarding integration managing automated split payments, payouts, and customer refunds
+- Full-featured communication layers supporting video calls, instant messaging, and real-time notifications
+- **Tech:** Next.js, Node.js, PostgreSQL, Stripe API, WebSockets
+
+---
+
+#### 🛒 NutriFlow – Subscription E-Commerce SaaS
+A specialized subscription-based e-commerce platform engineered for meal-prep and wellness juice businesses to manage recurring retail logistics.
+- Custom multi-tier recurring billing engine allowing users to pause, upgrade, or modify frequencies smoothly
+- Dynamic, radius-based delivery fee calculations at checkout utilizing geographic data matrices
+- Administrative operational CRM for managing users, tracking live inventory usage, and deploying promotional coupons
+- **Tech:** Next.js, React, Node.js, PostgreSQL, Stripe API
+
+---
+
+#### 🧾 POS Management System
+A real-world Point of Sale system designed for retail businesses to manage active sales metrics, user roles, and live inventory levels.
+- Secure role-based access control protecting critical business operations between administrators and staff
+- Optimized data pipelines driving a clean admin dashboard equipped with real-time operational metrics
+- **Tech:** Next.js, TypeScript, Supabase, PostgreSQL
+🌐 **Live:** https://pos-two-smoky.vercel.app/
 
 ---
 
 ### 🤝 Let’s Connect
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/haseeb-farrukh/
+- 🌐 **Portfolio:** https://haseeb-farrukh.vercel.app
 - 🧑‍💻 **Upwork:** https://www.upwork.com/freelancers/~0133ea7b7fe2550325
-- 🌐 **Portfolio:** https://dev-haseeb.vercel.app/
 
 ---
 
