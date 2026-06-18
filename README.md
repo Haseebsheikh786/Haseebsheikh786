@@ -13,12 +13,11 @@ I help startups and businesses turn product ideas into **high-performance digita
 - Tailwind CSS, ShadCN UI, Material UI
 
 **Backend & Architecture**
-- Node.js, Express.js, REST APIs
+- Node.js, Express.js, Sequelize, REST APIs
 - Asynchronous Worker Queues, Role-Based Access Control (RBAC)
 
 **Databases & Services**
 - PostgreSQL, Supabase, Firebase
-- Sequelize
 
 **Integrations & Infrastructure**
 - Square, Stripe (Subscriptions, Webhooks, Express Payouts)
